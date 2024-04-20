@@ -1,4 +1,3 @@
-<img src="https://github.com/Shamimreza77/shamimreza77/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png" alt="logo">
 <h1 align="center">HEY 👋, I'm REZA</h1>
 <h3 align="center">A Discord bot developer/owner from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
